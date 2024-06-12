@@ -3,7 +3,7 @@ pragma solidity 0.7.6;
 
 import {Script, console} from "forge-std/Script.sol";
 
-contract CounterScript is Script {
+contract DeployScript is Script {
     function setUp() public {}
 
     function run() public {
